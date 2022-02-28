@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for making provisions for setting the poor on work</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91084</idno>
+            <idno type="STC">Wing P3728</idno>
+            <idno type="STC">ESTC R230122</idno>
+            <idno type="EEBO-CITATION">99895919</idno>
+            <idno type="PROQUEST">99895919</idno>
+            <idno type="VID">153499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for making provisions for setting the poor on work</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Leake, in Jewin-Street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor laws --  England --  Early works to 1800.</term>
+               <term>Poor --  Employment --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153499:1"/>
+            <head>PROPOSALS For Making PROVISIONS for Setting the Poor on Work.</head>
+            <p>SINCE it is manifeſt, That the Encreaſe of the <hi>Poor</hi> is become a Burthen to this Kingdom, and their looſe and idle Lives do contribute to the Depra<g ref="char:EOLhyphen"/>vation of Manners, the principal Ground whereof proceeds from the Default of the Execution of the Laws: And that it is an indiſpenſable Duty, That the Poor who are not able to help themſelves, ſhould be maintain'd; and ſuch as are able and willing, be employed; and thoſe that are obſtinate and unwilling, be compelled to labour:</p>
+            <p>For that end, It is Propoſed,</p>
+            <p>That after the 25th. day of <hi>March,</hi> 1701, there may be a Corporation, to continue for ever, in all Cities, Boroughs, Towns Corporate, and Market-Towns, (except <hi>London,</hi> and ſuch other Cities and Towns whoſe <hi>Poor</hi> are already provided for by particular Acts of Parliament) conſiſting of the ſeveral Perſons herein after mentioned, <hi>viz.</hi> in Cities and Towns Corporate, of the Mayor, Aldermen, Bailiff, or other Chief Magiſtrate and Miniſter of each Pariſh, with ſuch a particular Number of Guardians of the Poor as may be Elected out of ſuch Inhabitants as contribute towards the Relief of the Poor. And in Boroughs and Market-Towns not Incorporated, of the Miniſter of each Pariſh, with a particular Number of Guardians to be aſcertained by the ſaid Inhabitants, at a General Meeting for that purpoſe, which may be called a <hi>General Court,</hi> and be Summoned by the Mayor, Aldermen, Bailiff, or Chief Magiſtrate in Cities and Towns Corporate, and by the Miniſter, Churchwardens or Overſeers of the Poor in Towns not Incorporated. And ſuch Guardians may continue till others are Elected in their rooms, in ſuch manner as is herein after mention'd. And in caſe of the Death of any ſuch Guardian, the Mayor and Aldermen in Cities and Towns Corporate, and the Miniſters, Churchwardens, or Overſeers of the Poor, in Boroughs and Market-Towns not Incorporated, may call a Court, and chuſe another in the place of ſuch Perſons ſo dying; which ſeveral Perſons before mention'd, together with ſuch Charitable Perſons as may be elected, may be Guardians of the Poor for ſuch Places.</p>
+            <p>And to the intent that the ſaid Guardians may have perpetual Succeſſion, It is further Propoſed,</p>
+            <p>That the Mayor, Aldermen, Bailiff or Chief Magiſtrate in Cities and Towns Cor<g ref="char:EOLhyphen"/>porate, and the Miniſter, Churchwardens and Overſeers of the Poor in Towns not Incorporated, may at a certain Time, in the ſecond Year, and ſo in every ſucceeding Year meet, and by the Votes of the Inhabitants ſo qualified as aforeſaid, chuſe one third part of the number as they did at the firſt Election of the Inhabitants, to be Guardians of the Poor, the Vacancy to fall on a third part of the number of thoſe that were firſt elected in the ſecond and third Year, by Lot, to be caſt amongſt the ſaid Guardians firſt elected; and for every Year after, a third part of the ſaid number of Guardians to go out, and their Places to become vacant by Seniority and Priority of Election; none being intended to continue longer than three Years, unleſs again choſen by their own conſents, except ſuch other charitable Perſons as may be conſtituted as herein after is appointed.</p>
+            <p>That the ſaid ſeveral Perſons before mentioned, and thoſe that hereafter may be choſen, may be one Body Politick and Corporate in Law, and be called by the Name of <hi>the Governor, Deputy-Governour, Aſſiſtants and Guardians of the Poor,</hi> and may Sue and be Sued by that Name; and without Licence in Mortmain, purchaſe or take any Lands of the Gift or Alienation of any Perſon whatſoever.</p>
+            <pb n="2" facs="tcp:153499:2"/>
+            <p>And for the better Governing the ſaid Corporations,</p>
+            <p>That the Perſons before mentioned may within fourteen Days after their Incorpora<g ref="char:EOLhyphen"/>tion meet and chuſe a Governour, Deputy-Governour, and Treaſurer, and as many Aſſiſtants as may be convenient, to continue for one Year, and no longer.</p>
+            <p>That the ſaid Governour, and in his default the Deputy-Governour, and in his default one third of the Aſſiſtants, may hold a Court of the ſaid Corporations Monthly: And upon any Emergency ſignified to the ſaid Governour by one third of the ſaid Guardians, that an Extraordinary Court ought to be held, the ſaid Governour, or in his default the Deputy, and in his default one third of the Aſſiſtants may call the ſame, and all Mem<g ref="char:EOLhyphen"/>bers to be obliged to attend, or a Fine be laid on them by the ſaid Court (without ſome lawful Excuſe for the ſame) who may have Power to ſummon any the Inhabitants before them in Matters relating to the ſaid Corporation.</p>
+            <p>That the ſaid Corporation may have a common Seal, and make Bye-Laws for the better Governing and Employing their Poor, to continue for ſix Months only, unleſs confirmed by the Juſtices of Aſſize, or by the Juſtices of the Peace in their General Quarter Seſſions, and may have Power to buy or erect Hoſpitals, Work-Houſes, or Houſes of Correction, and to provide Neceſſaries for ſetting the Poor to Work, and to compell all poor People ſeeking Relief, to inhabit in ſuch Work-Houſes, and take in Children of any Perſons willing to put them in ſuch Hoſpitals until their Age of Eighteen Years, and then to put them out Apprentices; and during their ſtay in the ſaid Hoſpitals may cauſe them to be taught to Read, and be inſtructed in the Common Fundamental Prin<g ref="char:EOLhyphen"/>ciples of the Proteſtant Religion, by Law Eſtabliſhed in this Kingdom.</p>
+            <p>And further, That the ſaid Courts may have Power to inflict reaſonable Correction on ſuch Perſons as ſhall not conform to their Rules, or misbehave themſelves in the ſaid Hoſpitals or Work-houſes.</p>
+            <p>And for the carrying on ſo pious a Work, It is Propoſed,</p>
+            <p>That each Corporation ſhall aſcertain what Summs of Money may be needful for the buying or building Hoſpitals, Work-houſes, and Houſes of Correction, and for a Stock for Employing the Poor, and to aſcertain what Weekly, Monthly, or other Summs will be needful for maintaining and ſetting them to Work, the ſame to be raiſed in a proper and lawful manner, and by proper and lawful methods.</p>
+            <p>That the ſaid Corporation may have care of all the Poor within their reſpective Ju<g ref="char:EOLhyphen"/>riſdictions, (except ſuch as are in Alms-Houſes, and otherwiſe provided for) and main<g ref="char:EOLhyphen"/>tain their Impotent Poor, and provide Work for thoſe whoſe Charge of Children is too great to be maintained by their own and Childrens Labour, and to apprehend all Rogues and Vagrants, and cauſe them to be kept and ſet to Work, and examine and ſearch what poor Perſons are come into or reſiding within their reſpective Juriſdictions, and remove them to the place of their laſt legal ſettlement, if they think fit, and may put in execu<g ref="char:EOLhyphen"/>tion all the Laws that relate to ſuch Rogues and Vagabonds.</p>
+            <p>That the ſaid Governour, Deputy, and Treaſurer of the ſaid Corporations, may be Juſtices of the Peace as to the putting ſuch Laws in execution, and be inveſted with ſuch Powers as Juſtices of the <hi>Quorum</hi> have, by the ſaid Statutes, within their reſpective Juriſdictions.</p>
+            <p>That in all the ſaid Cities and Towns, the Authorities of the Juſtices of the Peace for the Counties at large, as to the putting the ſaid Laws in execution, be taken away, unleſs for Confirmation of their Bye-Laws, or upon application by way of Appeal (as before,) ſo as not to deprive the Mayor, and Chief Officer, in Cities or Towns Corporate, of any Ju<g ref="char:EOLhyphen"/>riſdiction which they before lawfully had within their Cities and Towns Corporate.</p>
+            <p>That the ſaid Corporations may not have any Power over Alms-Houſes and Hoſpitals already erected, or other Charitable Gift already given, except for ſo much Charitable Gift as is appointed for the Uſe of the Poor; and that all ſuch Gifts which have already and may be given after the erecting of theſe Corporations, for the Uſe of the Poor of any Pariſh or Precinct within the ſaid Corporation, (except Alms-Houſes or Hoſpitals already erected) may be received by that Corporation, to be erected, to which the ſaid Pariſh or Precinct belongs, unleſs ſuch Gift be limited to any other particular Uſe; and the ſaid Guardians to have like Power of Letting and putting out any Money or Lands already given, after the Leaſes now in being expired, as they may have of any Lands or Moneys given for the Uſe of the Poor.</p>
+            <pb n="3" facs="tcp:153499:2"/>
+            <p>And that for the Encouragement of ſuch as may be Benefactors to ſo good a Deſign, It is Propoſed,</p>
+            <p>That if any Charitably diſpoſed Perſon ſhall give the Summ of Fifty Pounds or more to any Corporation towards carrying on the ſaid Work, the ſaid Corporation may con<g ref="char:EOLhyphen"/>ſtitute ſuch Perſons to be Guardians of the Poor of the ſaid Corporations, for Life, unleſs for juſt cauſe he ſhall be removed by any ſucceeding Court; which ſaid Perſons ſo choſen, to be called an <hi>Honorary Guardian,</hi> and not be obliged to attend the Buſineſs of the ſaid Corporation, or its Courts, unleſs of his own free Will.</p>
+            <p>And that the ſaid Corporations, in their Courts, may have Power to chuſe and enter<g ref="char:EOLhyphen"/>tain all ſuch Officers as may be needful to be employed in the Premiſſes, and remove them as they ſee cauſe; and upon the death or remove of any of them, to chuſe others in their rooms, and to give ſuch reaſonable Allowances to them as they ſhall think fit to be paid out of the Poors Stock.</p>
+            <p>That no Officer ſo choſen or employed, as aforeſaid, be lyable, by reaſon of his Office or Execution, to the Penalties mentioned in an Act of 25 <hi>Car.</hi> II. for preventing the Danger which may happen from Popiſh Recuſants; and that every Guardian of the Poor, elected and conſtituted as aforeſaid, may, in reſpect of his trouble, be excuſed from ſerving any Pariſh Office during ſuch his Guardianſhip.</p>
+            <p>That the Treaſurer, and all other Officers for the time being, may from time to time, before ſuch Perſons as the ſaid Corporation ſhall appoint, account for ſuch Money, Stock, and other things belonging to the ſaid Corporation, as ſhall come to their hands, or be under their care, upon reaſonable Warning given; and on neglect, ſhall by the ſaid Corporations be committed to Priſon, without Bail, until they ſhall Account; and if upon Account there appear any thing to be in their hands belonging to the ſaid Corporation, they pay and deliver, or give Security for the ſame, as the ſaid Cor<g ref="char:EOLhyphen"/>porations ſhall direct and approve of, upon pain of forfeiting Double what is due from him.</p>
+            <p>That all Pains and Penalties may be recovered in a lawful manner, for the Benefit of the Corporation.</p>
+            <p>That after the ſaid 25th. Day of <hi>March,</hi> 1701, it may be lawful for any County, Hundred, Town, Pariſh or Place (not being a Borough, Town Corporate, or Market-Town or Place united together with ſome Borough or Market-Town) to aſſociate themſelves to erect Hoſpitals, Houſes of Correction, and Work-houſes, for maintaining and employing the Poor belonging to ſuch reſpective places; which being confirmed and recorded in their General Quarter-Seſſions, may be a Corporation for ſuch par<g ref="char:EOLhyphen"/>ticular place, and conſiſt of all the Juſtices of the Peace for the time being, within the County, Hundred, Town, Pariſhes or Places ſo United and Incorporated, toge<g ref="char:EOLhyphen"/>ther with the Miniſters of each Pariſh, and ſuch number of the Guardians of the Poor as may be elected out of the moſt ſubſtantial Inhabitants of every ſuch place, by the Votes of ſuch reſpective Inhabitants as contribute towards the Relief of the Poor, or the major part of them then preſent, ſuch number of Guardians for each Pariſh to be ſetled in proportion to the Money it pays towards the Relief of the Poor, by the ſaid Juſtices, in their ſaid General Quarter-Seſſions, and may be elected at a Meeting of the Inhabitants for that purpoſe in each Pariſh, ſuch Meeting to be ſummoned by the Miniſter, Churchwardens and Overſeers of the Poor of each Pariſh, after Notice given from the General Quarter-Seſſions: Which Guardians ſo choſen may continue in their Offices till others be elected by the Inhabitants of each Pariſh or Place reſpectively, in their rooms, according to the method before Propoſed in Boroughs and Market-Towns not Incorporated: Which ſaid Juſtices, Miniſters, and other Charitable Perſons may be Guardians of the Poor.</p>
+            <p>And to the Intent the ſaid Guardians may have perpetual Succeſſion,</p>
+            <p>That the Miniſters, Churchwardens or Overſeers of the Poor in each Pariſh or Place, in the ſecond Year from the firſt Election, and ſo in every Year ſucceeding, may Meet, and by the Votes of the Inhabitants qualified as aforeſaid, chuſe one third part of the Number they did chuſe at their firſt Election to be Guardians, who ſhall ſucceed the ſame Number firſt elected, the Vacancy to fall by Lot in all reſpects, and in the ſame manner as is before Propoſed in the caſe of Cities and Market-Towns not Incorporated.</p>
+            <pb n="4" facs="tcp:153499:3" rendition="simple:additions"/>
+            <p>That the ſaid ſeveral Perſons may be one Body Politick, and have a perpetual Suc<g ref="char:EOLhyphen"/>ceſſion, and be called by the Name of <hi>the Governour, Deputy-Governour, Aſſiſtants and Guardians of the Poor,</hi> and may Sue and be Sued in all Places of Judicature, and, with<g ref="char:EOLhyphen"/>out Licence, Purchace in Mortmain, and Grant and Demiſe, or do all ſuch other things as in the Caſe of Cities, Towns Corporate, Boroughs and Market-Towns is limited and propoſed to be done, and may have Power to appoint a Common Seal, and make and ordain By-Laws, erect Hoſpitals, Work-houſes, and Houſes of Correction, and provide Neceſſaries for ſetting the Poor to Work, and inflict reaſonable Puniſhment for neglect of their Duty; to put forth Children Apprentices: And that the ſaid Governour, Deputy-Governour and Treaſurer may be Juſtices of the Peace, and of the <hi>Quorum,</hi> as to the Execution of their Laws and Statutes within their Limits, ſo as not to exclude the Authority of Juſtices of the Peace in the County at large: And all Cha<g ref="char:EOLhyphen"/>ritable Perſons that ſhall give Fifty Pounds towards the carrying on the ſaid Work, to be elected an <hi>Honorary Guardian,</hi> as aforeſaid.</p>
+            <p>And that the ſaid Corporation may chuſe all ſuch other Officers, and make reaſonable Allowances for them, to be paid in manner as aforeſaid, who ſhall not be liable to the Penalties in the ſaid Act of 25 <hi>Car.</hi> II. and the ſaid Guardians to be exempted from all Pariſh Offices during ſuch his Guardianſhip; and the Treaſurer and all other Officers to Account before ſuch Perſon, and in ſuch manner as in the Caſe of Boroughs and Market-Towns not Incorporated.</p>
+            <p>That any Borough or Market-Town not Incorporated, may aſſociate together with one or more Boroughs, Market-Towns, Pariſhes or Places adjacent in the ſame County, by their mutual Conſent; which being recorded by the Juſtices in their General Quarter-Seſſions, to be declared Corporations for ever, and to be inveſted with all the Powers herein before mention'd in Caſe of Cities, Towns Corporate, Boroughs and Market-Towns not Incorporated.</p>
+            <p>That theſe PROPOSALS are not intended to be Compulſory to any ſmall Borough, Town Corporate, or Market-Town, the Poors Rates whereof have not in one of the three Years paſt exceeded 150<abbr>
+                  <hi>l.</hi>
+               </abbr> a certain Summ. Which (notwithſtanding) may be at liberty to Incorporate themſelves as any other Town, Pariſh or Place in the County at large, not being a City, Town Corporate, or Market-Town, according to the ſeveral Appointments, Directions and Limitations before expreſs'd.</p>
+            <p>That all Mayors, Juſtices, Sheriffs, Bailiffs, Conſtables and other Officers of Juſtice be Aiding and Aſſiſting to the ſaid Corporations and to all Officers by them to be em<g ref="char:EOLhyphen"/>ployed therein.</p>
+            <p>
+               <hi>In caſe any Perſons can propoſe any better Expedient, or make any reaſonable Addi<g ref="char:EOLhyphen"/>tions, to, or Alterations of the ſaid</hi> PROPOSALS, <hi>they are deſired to impart the ſame to Mr.</hi> Jodrell, <hi>at his Houſe in</hi> Chancery-lane, <hi>ſo that the ſame may be conſidered by ſuch Perſons as intend to put their Hands to this great Work, for the bringing the ſame to effect, if it may be; ſomething of this nature in the City of</hi> Briſtol, <hi>and other Places, having met with good Succeſs.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by J. LEAKE, in <hi>Jewin-Street,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
